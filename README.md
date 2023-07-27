@@ -6,3 +6,5 @@ Steps to use
 1) clone the repository
 2) open the terminal and execute this => npm install or npm i
 3) Then npm run start
+
+live project : https://react-shopping-cartapp.netlify.app/
